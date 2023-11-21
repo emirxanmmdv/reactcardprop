@@ -1,0 +1,25 @@
+.card{
+    width: 600px;
+    height: 600px;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+.cardImg{
+
+}
+.cardImage{
+    width: 100%;
+}
+.cardContent{
+
+}
+.cardTitle{
+    font-size: 20px;
+}
+.cardPrice{
+    color: green;
+}
+
+.cardFeedback{
+    font-size: 20px;
+}
